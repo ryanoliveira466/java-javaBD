@@ -1,0 +1,34 @@
+Na nossa primeira aula, vamos realizar a combinação de boas práticas e conhecer a unidade curricular (UC).
+
+Lembrem-se:
+1. As aulas são sequenciais, ou seja, o conteudo de ontem é fundamental para a aula de hoje;
+2. Evitem ao máximo faltar as aulas / matenham o máximo de presença. Será fundamental para realização das nossas atividades.
+3. Comprometimento, organização, assiduidade, entrega das atividades e respeito a prazos são características profissionais fundamentais em qualquer função, principamente para o profissional da área de desenvolvimento de sistemas.
+4. Utilizaremos um banco de dados integrado ao Netbeans, visando a melhoria da performance e produtividade das aulas. 
+
+Tenham todos(as) um bom curso!
+
+Orientações sobre as aplicações da primeira aula. 
+Vídeo: Como baixar e instalar o NetBeans - esta IDE será utilizada para desenvolvimento das atividades da nossa UC. 
+
+Atenção! Utilizaremos o JDK 17 e a versão NetBeans 19 para o desenvolvimento das aulas; e em função da compatibilidade do banco de dados e de recursos de usuário nos PC's da escola. 
+https://www.youtube.com/watch?v=dmnerOpFj1E&t=3s
+
+Download dos Arquivos:
+
+Java JDK17 -      
+https://download.oracle.com/java/17/archive/jdk-17.0.8_windows-x64_bin.exe
+
+Netbeans 19 -
+https://dlcdn.apache.org/netbeans/netbeans-installers/19/Apache-NetBeans-19-bin-windows-x64.exe
+
+Derby DB - versão 10.14.2.0
+https://db.apache.org/derby/derby_downloads.html
+Documentação Técnica - Oracle Java
+O site do link abaixo, refere-se ao local onde se encontra a documentação da utilização de recursos de programação em JAVA. Este é um item importante, para quem quer se aprofundar em programação, utilizando esta  linguagem.
+Overview (Java SE 13 & JDK 13 ) (oracle.com)
+
+Livro digital para apoio na realização da Unidede UC8 e UC9:
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ia601403.us.archive.org/32/items/deitel-java-como-programar-6a-edicao-br-completo/Paul%2520Deitel%252C%2520Harvey%2520Deitel%2520-%2520Java%2520como%2520Programar%2520-%252010%25C2%25B0%2520Edi%25C3%25A7%25C3%25A3o.pdf&ved=2ahUKEwjl1u6_2LeFAxVxK7kGHejbBigQFnoECBMQAQ&usg=AOvVaw1xw1X6OpV8WWlVgoq4KxEk
+
+No link do item em anexo, segue um tutorial de conexão ao banco de dados Derby DB, banco que utilizaremos para aplicação junto a UC9; durante a realização de atividade que envolvam a arquitetura de software MVC (model-view-controller).
