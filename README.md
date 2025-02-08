@@ -29,6 +29,8 @@ Aprender a implementar algoritmos e entender os conceitos fundamentais da progra
 
 * Após todos os processos, simplesmente abra o NetBeans e pronto, você poderá criar os seus projetos em Java com toda a estrutura do NetBeans.
 
+* Mas antes disso veja como instalar o ambiente do banco de dados [Banco de dados LINK](Aulas/Aula 01 - Banco de Dados Derby.pdf)
+
 ## Esquema de cores
 
 [Esquema](esquemaCoresNetBeans.pdf)
