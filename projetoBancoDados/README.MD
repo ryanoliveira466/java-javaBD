@@ -1,6 +1,3 @@
-Aqui está um modelo de markdown explicando o projeto:  
-
-
 # 📌 Projeto - Padrão MVC, CRUD, Java Desktop e Consumo da API ViaCEP
 
 ## 📝 Descrição
