@@ -17,6 +17,19 @@ O projeto é estruturado em três camadas principais:
 
 ---
 
+# 🗂️ CRUD - Operações no Projeto  
+
+## 📌 O que é CRUD?  
+CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de dados e sistemas de gerenciamento de informações:  
+
+- **C**reate (Criar) - Adicionar novos registros  
+- **R**ead (Ler) - Consultar registros existentes  
+- **U**pdate (Atualizar) - Modificar registros existentes  
+- **D**elete (Excluir) - Remover registros  
+
+---
+
+
 ## 🚀 Tecnologias Utilizadas
 
 - **Java SE** (Swing/ para interface gráfica)  
@@ -55,4 +68,5 @@ https://viacep.com.br/ws/01001000/json/
 ## 📌 Conclusão
 
 Este projeto demonstra a aplicação do padrão **MVC**, o uso de **Java Desktop (Swing)** e a integração com **APIs externas** para consumo de dados em formato **JSON**. 🚀  
+ 
  
