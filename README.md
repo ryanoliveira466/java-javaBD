@@ -20,7 +20,7 @@ Aprender a implementar algoritmos e entender os conceitos fundamentais da progra
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="500" />
  
-* Instale o ApacheDerby 10.14.2.0 ou outro de sua preferência -  [Derby](https://db.apache.org/derby/derby_downloads.html)
+* Instale o banco de dados ApacheDerby 10.14.2.0 ou outra versão de sua preferência -  [Derby](https://db.apache.org/derby/derby_downloads.html)
 
  
 <img src="https://upload.wikimedia.org/wikipedia/en/0/00/Derby_Logo.png" width="400" />
