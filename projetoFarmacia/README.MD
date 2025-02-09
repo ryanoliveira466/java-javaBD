@@ -40,7 +40,7 @@ CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de
 
 ## 🖱️ Como utilizar
 
-* Para utilizar o projeto, devemos criar um `maven-repository // webaplicattion` e substituir os arquivos para suas respectivas pastas
+* Para utilizar o projeto, devemos criar um `maven-repository // webaplicattion` e substituir os arquivos para suas respectivas pastas.
 
 * Para utilizar o Derby em JavaWeb, devemos utilizar `dependecy` no arquivo `pom.xml`, caso precise de outra dependência, você pode achar aqui - [Maven Repository](https://mvnrepository.com/artifact/org.apache.derby)
 
