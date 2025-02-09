@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Cadastro de Medicamentos</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        h1 {
+            color: #3aafa9;
+            font-size: 24px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        div {
+            background-color: #ffffff;
+            padding: 30px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            font-size: 14px;
+            margin-bottom: 5px;
+            color: #555;
+        }
+
+        input[type="text"], input[type="number"], input[type="date"] {
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+            outline: none;
+        }
+
+        input[type="text"]:focus, input[type="number"]:focus, input[type="date"]:focus {
+            border-color: #3aafa9;
+        }
+
+        input[type="submit"] {
+            background-color: #3aafa9;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #319c98;
+        }
+
+        a {
+            font-size: 16px;
+            color: #337ab7;
+            text-decoration: none;
+            font-weight: bold;
+            text-align: center;
+            display: block;
+            margin: 1rem
+        }
+
+        a:hover {
+            color: #23527c;
+        }
+    </style>
+    </head>
+    <body>
+        <div>
+            <h1>Insira aqui os cadastro do medicamento recebido</h1> <br />
+            <form name="formMedicamento" action="insertmedicineservelt" method="post"><br />
+                Fornecedor: <input type="text" name="nomeFornecedor"><br />
+                Nome Medicamento: <input type="text" name="nomeMedicamento"><br />
+                Tipo: <input type="text" name="tipoMedicamento"><br />
+                Lote: <input type="number" name="numLote"><br />
+                Data Recebimento: <input type="date" name="dataRecebimento"><br />
+                Validade: <input type="date" name="dataValidade"><br />
+                <input type="submit" value="Enviar" name="enviar"><br />
+            </form>
+        </div>
+        
+        <a href="index.html">Retornar</a> <br />
+        
+        
+    </body>
+</html>
