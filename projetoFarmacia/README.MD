@@ -32,10 +32,9 @@ CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java SE** (Swing/ para interface gráfica)  
+- **HTML/CSS** (HTML/ para interface gráfica)  
 - **Padrão MVC** para organização do código  
-- **Consumo de API REST** utilizando a API **ViaCEP**  
-- **Bibliotecas HTTP** para requisições de API  
+
 
 ---
 
