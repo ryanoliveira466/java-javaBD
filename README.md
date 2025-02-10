@@ -23,7 +23,7 @@ Aprender a implementar algoritmos e entender os conceitos fundamentais da progra
 * Instale o banco de dados ApacheDerby 10.14.2.0 ou outra versão de sua preferência -  [Derby](https://db.apache.org/derby/derby_downloads.html)
 
  
-<img src="https://db.apache.org/derby/images/final_logowithtext.png" width="200" />
+<img src="https://db.apache.org/derby/images/final_logowithtext.png" width="300" />
 
 ## Como utilizar
 
