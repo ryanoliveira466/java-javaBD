@@ -22,10 +22,10 @@ O projeto é estruturado em três camadas principais:
 ##  O que é CRUD?  
 CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de dados e sistemas de gerenciamento de informações:  
 
-- **C**reate (Criar) - Adicionar novos registros  
-- **R**ead (Ler) - Consultar registros existentes  
-- **U**pdate (Atualizar) - Modificar registros existentes  
-- **D**elete (Excluir) - Remover registros  
+- **C**reate (Criar) - Adicionar novos registros.  
+- **R**ead (Ler) - Consultar registros existentes.  
+- **U**pdate (Atualizar) - Modificar registros existentes.  
+- **D**elete (Excluir) - Remover registros.  
 
 ---
 
@@ -33,7 +33,7 @@ CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de
 ##  Tecnologias Utilizadas
 
 - **HTML/CSS** (HTML/ para interface gráfica)  
-- **Padrão MVC** para organização do código  
+- **Padrão MVC** para organização do código.  
 
 
 ---
@@ -49,5 +49,5 @@ CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de
 
 ##  Conclusão
 
-Este projeto demonstra a aplicação do padrão **MVC** e o uso de **JavaWeb** 🚀  
+Este projeto demonstra a aplicação do padrão **MVC** e o uso de **JavaWeb.** 🚀  
  
