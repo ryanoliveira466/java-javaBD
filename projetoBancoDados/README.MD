@@ -1,13 +1,13 @@
-# 📌 Projeto - Padrão MVC, CRUD, Java Desktop e Consumo da API ViaCEP
+#  Projeto - Padrão MVC, CRUD, Java Desktop e Consumo da API ViaCEP
 
-## 📝 Descrição
+##  Descrição
 Este projeto foi desenvolvido seguindo o padrão de arquitetura **MVC (Model-View-Controller)**, utilizando **Java Desktop** para a interface gráfica e consumindo a API do **ViaCEP** para a busca de endereços via **JSON**.
 
 O projeto seria um aplicativo de assistência técnica para funcionários/clientes onde há registro de clientes,funcionários e equipamentos para serem consertados.
 
 ---
 
-## 🏗️ Arquitetura MVC
+##  Arquitetura MVC
 
 O projeto é estruturado em três camadas principais:
 
@@ -17,9 +17,9 @@ O projeto é estruturado em três camadas principais:
 
 ---
 
-# 🗂️ CRUD - Operações no Projeto  
+#  CRUD - Operações no Projeto  
 
-## 📌 O que é CRUD?  
+##  O que é CRUD?  
 CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de dados e sistemas de gerenciamento de informações:  
 
 - **C**reate (Criar) - Adicionar novos registros  
@@ -30,7 +30,7 @@ CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de
 ---
 
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Java SE** (Swing/ para interface gráfica)  
 - **Padrão MVC** para organização do código  
@@ -39,16 +39,16 @@ CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de
 
 ---
 
-## 🌍 Consumo da API ViaCEP
+##  Consumo da API ViaCEP
 
 A aplicação utiliza a API do ViaCEP para obter dados de endereço a partir do CEP informado pelo usuário. A comunicação ocorre via **requisição HTTP GET**, e os dados retornam no formato **JSON**.
 
-### 🔹 Exemplo de requisição:
+###  Exemplo de requisição:
 ```
 https://viacep.com.br/ws/01001000/json/
 ```
 
-### 🔹 Exemplo de resposta:
+###  Exemplo de resposta:
 ```json
 {
   "cep": "01001-000",
@@ -65,7 +65,7 @@ https://viacep.com.br/ws/01001000/json/
 ```
 
 
-## 📌 Conclusão
+##  Conclusão
 
 Este projeto demonstra a aplicação do padrão **MVC**, o uso de **Java Desktop (Swing)** e a integração com **APIs externas** para consumo de dados em formato **JSON**. 🚀  
  
