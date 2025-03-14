@@ -1,13 +1,13 @@
-# 📌 Projeto - JavaWeb
+#  Projeto - JavaWeb
 
-## 📝 Descrição
+##  Descrição
 Projeto simples que demostra como podemos utilizar o Java em Web com **CRUD** simples.
 
  
 
 ---
 
-## 🏗️ Arquitetura MVC
+##  Arquitetura MVC
 
 O projeto é estruturado em três camadas principais:
 
@@ -17,9 +17,9 @@ O projeto é estruturado em três camadas principais:
 
 ---
 
-# 🗂️ CRUD - Operações no Projeto  
+#  CRUD - Operações no Projeto  
 
-## 📌 O que é CRUD?  
+##  O que é CRUD?  
 CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de dados e sistemas de gerenciamento de informações:  
 
 - **C**reate (Criar) - Adicionar novos registros  
@@ -30,7 +30,7 @@ CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de
 ---
 
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML/CSS** (HTML/ para interface gráfica)  
 - **Padrão MVC** para organização do código  
@@ -38,7 +38,7 @@ CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de
 
 ---
 
-## 🖱️ Como utilizar
+##  Como utilizar
 
 * Para utilizar o projeto, devemos criar um `maven-repository // webaplicattion` e substituir os arquivos para suas respectivas pastas.
 
@@ -47,7 +47,7 @@ CRUD é um acrônimo para as quatro operações básicas utilizadas em bancos de
 * Utilitário - [JSTL](https://docs.oracle.com/javaee/5/tutorial/doc/bnake.html)
 
 
-## 📌 Conclusão
+##  Conclusão
 
 Este projeto demonstra a aplicação do padrão **MVC** e o uso de **JavaWeb** 🚀  
  
